@@ -1,1 +1,1 @@
-# ImageExperiments
+# Image Experiments with Pillow
